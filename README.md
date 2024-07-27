@@ -1,2 +1,2 @@
 # angular-journey
-My Journey learning Angular
+My journey learning Angular
