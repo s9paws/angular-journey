@@ -1,1 +1,3 @@
-<h1 class="center">Practice Time!</h1>
+<app-header></app-header>
+<app-user-input (initiateCalculateInvestment)="initiateCalculateInvestment($event)"></app-user-input>
+<app-investment-results *ngIf="(investmentResults.length > 0)" [investmentResults]="investmentResults"></app-investment-results>

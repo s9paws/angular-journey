@@ -1,31 +1,31 @@
 {
-  "hash": "912712b8",
-  "configHash": "f4b9a1a8",
-  "lockfileHash": "5621b372",
-  "browserHash": "db4f3245",
+  "hash": "80412665",
+  "configHash": "c0306c23",
+  "lockfileHash": "692e7985",
+  "browserHash": "a2cea398",
   "optimized": {
-    "@angular/common": {
-      "src": "../../../../../node_modules/.pnpm/@angular+common@18.1.2_@angular+core@18.1.2_rxjs@7.8.1_zone.js@0.14.8__rxjs@7.8.1/node_modules/@angular/common/fesm2022/common.mjs",
-      "file": "@angular_common.js",
-      "fileHash": "58e8f860",
-      "needsInterop": false
-    },
     "@angular/core": {
       "src": "../../../../../node_modules/.pnpm/@angular+core@18.1.2_rxjs@7.8.1_zone.js@0.14.8/node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "35e07cec",
-      "needsInterop": false
-    },
-    "@angular/forms": {
-      "src": "../../../../../node_modules/.pnpm/@angular+forms@18.1.2_@angular+common@18.1.2_@angular+core@18.1.2_rxjs@7.8.1_zone.js@0.14.8___h5ln5khr3renoe3klvgndr23qy/node_modules/@angular/forms/fesm2022/forms.mjs",
-      "file": "@angular_forms.js",
-      "fileHash": "c2890347",
+      "fileHash": "b0e5471d",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/.pnpm/@angular+platform-browser@18.1.2_@angular+animations@18.1.2_@angular+core@18.1.2_rxjs@7.8.1_z_isd6p26m6yfugixvsmteen7zga/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "77bc0540",
+      "fileHash": "201d8e45",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/.pnpm/@angular+forms@18.1.2_@angular+common@18.1.2_@angular+core@18.1.2_rxjs@7.8.1_zone.js@0.14.8___h5ln5khr3renoe3klvgndr23qy/node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "82b4d0ea",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../node_modules/.pnpm/@angular+common@18.1.2_@angular+core@18.1.2_rxjs@7.8.1_zone.js@0.14.8__rxjs@7.8.1/node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "1a3e9fc6",
       "needsInterop": false
     }
   },

@@ -1,0 +1,22 @@
+<table>
+  <thead>
+    <tr>
+      <td>Year</td>
+      <td>Interest</td>
+      <td>Value End of Year</td>
+      <td>Annual Investment</td>
+      <td>Total Interest</td>
+      <td>Total Amount Invested</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let investmentResult of investmentResults" >
+      <td>{{investmentResult.year}}</td>
+      <td>{{investmentResult.interest.toFixed(2)}}</td>
+      <td>{{investmentResult.valueEndOfYear.toFixed(2)}}</td>
+      <td>{{investmentResult.annualInvestment.toFixed(2)}}</td>
+      <td>{{investmentResult.totalInterest.toFixed(2)}}</td>
+      <td>{{investmentResult.totalAmountInvested.toFixed(2)}}</td>
+    </tr>
+  </tbody>
+</table>
